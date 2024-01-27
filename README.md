@@ -9,4 +9,4 @@ This project is based upon the original article listed below. It provides a mean
 # BenchmarkDotNet Overview Video
 [https://youtu.be/Wa3sdKGp3wE](https://youtu.be/Wa3sdKGp3wE)
 # My results
-<img src="https://github.com/itaylorm/NewOrdering/blob/main/Results.png")/>
+<img src="https://github.com/itaylorm/NewOrdering/blob/main/Results.png"/>
